@@ -6,18 +6,23 @@ This project is a small utility that helps you quickly mute or unmute your micro
 
 # Features
 🎙️ Global Microphone Mute
+
 Instantly mutes/unmutes your microphone across all applications using a system-level control. No app-specific toggling — one button rules them all.
 
 🛡️ Reliable and Persistent
+
 Ensures your microphone stays muted until you decide to unmute. Prevents accidental unmuting caused by vibration, software, or faulty touch buttons.
 
 ⚡ Lightweight and Minimal
+
 Runs quietly in the background from the system tray with almost no resource usage.
 
 🖱️ Tray Icon with Right-Click Menu
+
 Simple and intuitive interface: click to toggle mic state, right-click for more options.
 
 🎯 Hotkey Lock Feature
+
 You can lock the hotkey from the tray menu to prevent accidentally unmuting the microphone.
 
 
