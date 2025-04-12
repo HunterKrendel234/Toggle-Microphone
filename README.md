@@ -25,6 +25,14 @@ Simple and intuitive interface: click to toggle mic state, right-click for more 
 
 You can lock the hotkey from the tray menu to prevent accidentally unmuting the microphone.
 
+# Download and install
+
+📥 Download the archive [ToggleMicrophone.zip] with the program in Release.
+
+After downloading the archive:
+1. Extract it to any location on your computer.
+2. Locate and run the .exe file.
+3. The program will automatically add itself to the startup and will run when Windows starts. You will find it in the Task Manager.
 
 
 
@@ -54,3 +62,13 @@ You can lock the hotkey from the tray menu to prevent accidentally unmuting the 
 🎯 Функция блокировки горячих клавиш
 
 Вы можете заблокировать горячую клавишу в меню в трее, чтобы предотвратить случайное включение микрофона.
+
+
+# Скачать и установить
+
+📥 Скачайте архив с программой [ToggleMicrophone.zip] в Release.
+
+После скачивания архива:
+1. Распакуйте его в любое место на вашем компьютере.
+2. Найдите и запустите файл .exe.
+3. Программа автоматически добавится в автозагрузку и будет запускаться при старте Windows. Вы сможете найти её в диспетчере задач.
