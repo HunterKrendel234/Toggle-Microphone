@@ -1,12 +1,11 @@
-namespace MicrophoneToggle
+namespace MicrophoneToggle;
+
+internal static class Program
 {
-    internal static class Program
+    [STAThread]
+    static void Main()
     {
-        [STAThread]
-        static void Main()
-        {
-            ApplicationConfiguration.Initialize();
-            Application.Run(new MyApplicationContext());
-        }
+        ApplicationConfiguration.Initialize();
+        Application.Run(new MyApplicationContext());
     }
 }

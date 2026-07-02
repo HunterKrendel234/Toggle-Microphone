@@ -6,11 +6,16 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
-    <ApplicationIcon>bin\Debug\net8.0-windows\style\on.ico</ApplicationIcon>
+    <ApplicationIcon>style\on.ico</ApplicationIcon>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <SelfContained>false</SelfContained>
+    <IncludeNativeLibrariesForSelfExtract>false</IncludeNativeLibrariesForSelfExtract>
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="bin\Debug\net8.0-windows\style\on.ico" />
+    <Content Include="style\on.ico" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="style\off.ico" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="data\lang.json" CopyToOutputDirectory="PreserveNewest" />
   </ItemGroup>
 
   <ItemGroup>
